@@ -14,7 +14,7 @@ Este projeto é um sistema de cadastro de produtos, marcas e categorias para um 
 ![img](img/carrinho.png)
 ## Estrutura do Projeto
 
-O projeto está organizado nos seguintes arquivos principais:![alt text](image.png)
+O projeto está organizado nos seguintes arquivos principais:!
 
 - `carrinho.php`
 - `categoria.php`
@@ -25,6 +25,8 @@ O projeto está organizado nos seguintes arquivos principais:![alt text](image.p
 - `marca.php`
 - `pedido.php`
 - `produtos.php`
+
+Além dos arquivos secundários, JS, Model, CSS e controller.
 
 ### carrinho.php
 
@@ -66,35 +68,15 @@ Este arquivo é usado para cadastrar novos produtos. Ele contém um formulário 
 
 Para rodar este projeto, utilizamos o XAMPP e o phpMyAdmin para gerenciar o banco de dados. Certifique-se de ter estas ferramentas instaladas e configuradas corretamente.
 
-## Imagens da Aplicação e Banco de Dados
-
-### Página Inicial
-
-![Página Inicial](images/pagina-inicial.png)
-
-### Cadastro de Categoria
-
-![Cadastro de Categoria](images/cadastro-categoria.png)
-
-### Cadastro de Marca
-
-![Cadastro de Marca](images/cadastro-marca.png)
-
-### Cadastro de Produto
-
-![Cadastro de Produto](images/cadastro-produto.png)
-
-### Visualização do Carrinho
-
-![Carrinho](images/carrinho.png)
+## Imagens da Aplicação Banco de Dados
 
 ### Estrutura do Banco de Dados
 
-![Banco de Dados](images/banco-dados.png)
+![Banco de Dados](img/bdd.png)
 
 ## Comentários no Código
 
-Os códigos PHP foram comentados para explicar as funcionalidades implementadas. Por exemplo, em `insere-categoria.php`:
+Os códigos PHP foram comentados para explicar as funcionalidades implementadas. Por exemplo, em `insere-...php` que mostra como validar no banco de dados:
 
 ```php
 // Verificar se o formulário foi submetido
