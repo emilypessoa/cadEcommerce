@@ -102,4 +102,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 mysqli_close($mysqli); 
 
 ```
+## Fontes
+[GitHub Docs](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
+[GitHub Docs](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Dio.me](https://www.dio.me/articles/personalize-o-readme-no-github)
+
+## Agradeciento e Contato
 
