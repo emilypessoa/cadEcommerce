@@ -108,4 +108,7 @@ mysqli_close($mysqli);
 [Dio.me](https://www.dio.me/articles/personalize-o-readme-no-github)  
 
 ## Agradeciento e Contato
+Gostaríamos de agradecer ao professor Leo por toda a orientação ao longo deste projeto. Sua ajuda foi indispensável para a realização deste trabalho.
+
+Para mais informações, dúvidas ou sugestões, entre em contato através do instagram: @emilyy.pessoa
 
