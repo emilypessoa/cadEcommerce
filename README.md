@@ -76,9 +76,11 @@ Para rodar este projeto, utilizamos o XAMPP e o phpMyAdmin para gerenciar o banc
 
 ## Comentários no Código
 
-Os códigos PHP foram comentados para explicar as funcionalidades implementadas. Por exemplo, em `insere-...php` que mostra como validar no banco de dados:
+Os códigos PHP foram comentados para explicar as funcionalidades implementadas. Por exemplo, em `insere-...php` que mostra como validar no banco de dados:  
 
-```php
+
+```
+php
 // Verificar se o formulário foi submetido
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $descricao = $_POST['descricao'];
@@ -97,5 +99,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     }
 }
 
-mysqli_close($mysqli); ```
+mysqli_close($mysqli); 
+
+```
 
